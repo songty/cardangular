@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'ngPlayingCards'
   ])
   .config(function ($routeProvider) {
     $routeProvider
