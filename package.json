@@ -40,5 +40,9 @@
   },
   "scripts": {
     "test": "karma start test/karma.conf.js"
+  },
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.13.4"
   }
 }
